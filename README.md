@@ -1,4 +1,4 @@
-# LeetCode-Practice
+
 # LeetCode Practice Repository
 
 This repository contains a collection of solutions to various LeetCode problems. The solutions are implemented in different programming languages to help you practice coding and improve your problem-solving skills.
